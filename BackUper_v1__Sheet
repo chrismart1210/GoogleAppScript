@@ -24,5 +24,3 @@ function BackUper_v1__Sheet()
       Sheet_destino.getRange(1, 1).setFontColor("#00FF00");
       Sheet_destino.getRange(1, 1).setFontWeight("bold");
 }
-
-// RASSE
